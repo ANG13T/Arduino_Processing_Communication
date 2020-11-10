@@ -17,7 +17,7 @@ This project used Processing and Arduino to communicate with each other in order
 
 ## How It Works
 
-The circuit for this project is straightforward. We have three push button each connected to a VCC and pulled down to ground by a 220ohm resistor. The input from the buttons are detected by the digital input pins of the Arduino. A potentiometer is also used in this project. The pot is connected to the 5V, ground, and a analog input pin of the Arduino. For this project, the Arduino sketch communicates with Processing in order to display the GUI. The GUI displays a 700 by 700px window with a specific background color. As we rotate the potentiometer, the background color of the GUI changes. We can also set the background to a specific color by using one of the three push buttons.
+The circuit for this project is straightforward. We have three push button each connected to a VCC and pulled down to ground by a 220ohm resistor. The input from the buttons are detected by the digital input pins of the Arduino. A potentiometer is also used in this project. The pot is connected to the 5V, ground, and a analog input pin of the Arduino. For this project, the Arduino sketch communicates with Processing in order to display the GUI. The GUI displays a 700 by 700px window with a specific background color. As we rotate the potentiometer, the background color of the GUI changes. We can also set the background to a specific color by using one of the three push buttons. I highly recommend checking out ![their site](https://processing.org/) for download and documentation information. 
 
 ## Completed Project
 
