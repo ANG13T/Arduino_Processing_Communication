@@ -13,7 +13,7 @@ This project used Processing and Arduino to communicate with each other in order
 
 ## Schematic
 
-![design image](https://github.com/angelina-tsuboi/4N35_LED_Control/blob/main/images/design.png)
+![design image](https://github.com/angelina-tsuboi/Arduino_Processing_Communication/blob/master/images/design.png)
 
 ## How It Works
 
@@ -21,7 +21,7 @@ The circuit for this project is straightforward. We have three push button each 
 
 ## Completed Project
 
-![project photo](https://github.com/angelina-tsuboi/4N35_LED_Control/blob/main/images/final.jpg)
+![project photo](https://github.com/angelina-tsuboi/Arduino_Processing_Communication/blob/master/images/final.jpg)
 
 ## Sources
 
